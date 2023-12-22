@@ -1,0 +1,65 @@
+{
+    "perfumes": 
+    [
+        {
+            "nombre": "Chanel No. 5",
+            "stock": 50,
+            "precio": 120.99,
+            "imagen": "https://dior.vtexassets.com/arquivos/ids/1518343/Name_1382.jpg?v=638150063692630000"
+        },
+        {
+            "nombre": "Dior J'adore",
+            "stock": 30,
+            "precio": 150.50,
+            "imagen": "https://dior.vtexassets.com/arquivos/ids/1518343/Name_1382.jpg?v=638150063692630000"
+        },
+        {
+            "nombre": "Yves Saint Laurent Black",
+            "stock": 40,
+            "precio": 99.99,
+            "imagen": "https://dior.vtexassets.com/arquivos/ids/1518343/Name_1382.jpg?v=638150063692630000"
+        },
+        {
+            "nombre": "Gucci Bloom",
+            "stock": 25,
+            "precio": 200.75,
+            "imagen": "https://dior.vtexassets.com/arquivos/ids/1518343/Name_1382.jpg?v=638150063692630000"
+        },
+        {
+            "nombre": "Calvin Klein Eternity",
+            "stock": 35,
+            "precio": 79.95,
+            "imagen": "https://dior.vtexassets.com/arquivos/ids/1518343/Name_1382.jpg?v=638150063692630000"
+        },
+        {
+            "nombre": "Versace Bright Crystal",
+            "stock": 20,
+            "precio": 89.50,
+            "imagen": "https://dior.vtexassets.com/arquivos/ids/1518343/Name_1382.jpg?v=638150063692630000"
+        },
+        {
+            "nombre": "Marc Jacobs Daisy",
+            "stock": 45,
+            "precio": 110.25,
+            "imagen": "https://dior.vtexassets.com/arquivos/ids/1518343/Name_1382.jpg?v=638150063692630000"
+        },
+        {
+            "nombre": "Tom Ford Black Orchid",
+            "stock": 15,
+            "precio": 250.00,
+            "imagen": "https://dior.vtexassets.com/arquivos/ids/1518343/Name_1382.jpg?v=638150063692630000"
+        },
+        {
+            "nombre": "Hugo Boss Boss Bottled",
+            "stock": 55,
+            "precio": 75.80,
+            "imagen": "https://dior.vtexassets.com/arquivos/ids/1518343/Name_1382.jpg?v=638150063692630000"
+        },
+        {
+            "nombre": "Prada Candy",
+            "stock": 28,
+            "precio": 135.60,
+            "imagen": "https://dior.vtexassets.com/arquivos/ids/1518343/Name_1382.jpg?v=638150063692630000"
+        }
+    ]
+}
